@@ -1,20 +1,22 @@
 # Leilos
 
-![Leilos Logo](https://cdn.leilos.qzz.io/media/logo.jpg)
+<p align="center">
+  <img src="https://cdn.leilos.qzz.io/media/logo.jpg" alt="Leilos Logo" width="200">
+</p>
 
 **Leilos** es un proyecto que utiliza los archivos de la versión **v28.30 de Fortnite** para ofrecer una experiencia personalizada, estable y libre de riesgos.  
-Nuestros servidores están alojados en **Madrid, España**, garantizando baja latencia y un rendimiento óptimo para los jugadores europeos.
+Nuestros servidores están alojados en **Madrid, España**, garantizando baja latencia y un rendimiento óptimo para los jugadores europeos. [web:1]
 
 ## 🌍 Sitio web oficial
-[https://leilos.qzz.io/](https://leilos.qzz.io/)
+[https://leilos.qzz.io/](https://leilos.qzz.io/) [web:1]
 
 ## 💬 Comunidad
 Únete a nuestra comunidad en Discord para recibir actualizaciones, soporte y participar en eventos:  
-[https://discord.gg/rNtPqQyBwg](https://discord.gg/rNtPqQyBwg)
+[https://discord.gg/rNtPqQyBwg](https://discord.gg/rNtPqQyBwg) [web:1]
 
 ## 💻 GitHub
 Repositorio oficial y actualizaciones del proyecto:  
-[https://github.com/LeilosFN](https://github.com/LeilosFN)
+[https://github.com/LeilosFN](https://github.com/LeilosFN) [web:1]
 
 ## 🔒 Seguridad
 Leilos es un proyecto **100% seguro**.  
