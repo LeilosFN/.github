@@ -37,4 +37,4 @@ Ofrecer una versión accesible, estable y segura de la experiencia Fortnite v28.
 
 ---
 
-Gracias a trae.ai se ha hecho esto.
+Gracias a [Trae](https://trae.ai) se ha hecho esto.
