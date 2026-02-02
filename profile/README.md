@@ -1,40 +1,59 @@
-# Leilos
+# 🦅 Leilos Project
 
 <p align="center">
-  <img src="https://cdn.leilos.qzz.io/media/logo.jpg" alt="Leilos Logo" width="200">
+  <img src="https://cdn.leilos.qzz.io/media/logo.jpg" alt="Leilos Logo" width="250">
 </p>
 
-**Leilos** es un proyecto que utiliza los archivos de la versión **v28.30 de Fortnite** para ofrecer una experiencia personalizada, estable y libre de riesgos.  
-Nuestros servidores están alojados en **Madrid, España**, garantizando baja latencia y un rendimiento óptimo para los jugadores europeos.
-
-## 🌍 Sitio web oficial
-[https://leilos.qzz.io/](https://leilos.qzz.io/)
-
-## 💬 Comunidad
-Únete a nuestra comunidad en Discord para recibir actualizaciones, soporte y participar en eventos:  
-[https://discord.gg/rNtPqQyBwg](https://discord.gg/rNtPqQyBwg)
-
-## 💻 GitHub
-Repositorio oficial y actualizaciones del proyecto:  
-[https://github.com/LeilosFN](https://github.com/LeilosFN)
-
-## 🔒 Seguridad
-Leilos es un proyecto **100% seguro**.  
-No contiene virus, malware ni ningún tipo de software malicioso. Todo ha sido verificado para garantizar una experiencia confiable y estable.
-
-## ⚙️ Servidores
-- **Ubicación:** Madrid, España 🇪🇸  
-- **Latencia media:** <50ms en territorio europeo  
-- **Disponibilidad:** 24/7 con mantenimiento programado
-
-## 📦 Versión base
-- **Archivos base:** Fortnite v28.30  
-- **Compatibilidad:** PC (Windows)  
-- **Actualizaciones:** frecuentes con mejoras de rendimiento y contenidos personalizados
-
-## 🚀 Objetivo del proyecto
-Ofrecer una versión accesible, estable y segura de la experiencia Fortnite v28.30 para servidores privados y proyectos de la comunidad, centrada en la personalización y el rendimiento.
+<p align="center">
+  <b>La Experiencia Definitiva de Fortnite v28.30</b><br>
+  Personalizada • Estable • Segura • Europea
+</p>
 
 ---
 
-Gracias a [Trae](https://trae.ai) se ha hecho esto.
+**Leilos** es un proyecto innovador que revive la versión **v28.30 de Fortnite**, ofreciendo una experiencia de juego mejorada, libre de riesgos y totalmente optimizada. Nuestros servidores dedicados en **Madrid** aseguran la mejor conexión para toda Europa.
+
+## � ¿Por qué elegir Leilos?
+
+### � Rendimiento de Élite
+*   **Infraestructura Local:** Servidores alojados físicamente en **Madrid, España** 🇪🇸.
+*   **Latencia Mínima:** Ping promedio **<50ms** garantizado en territorio europeo.
+*   **Estabilidad Total:** Servicio activo **24/7** con mantenimiento profesional.
+
+### �️ Seguridad Garantizada
+*   **Entorno Seguro:** Proyecto 100% libre de virus y software malicioso.
+*   **Transparencia:** Código verificado y orientado a la comunidad.
+*   **Sin Riesgos:** Juega sin preocupaciones en un entorno controlado.
+
+### 📦 Características Técnicas
+*   **Versión Base:** Fortnite v28.30.
+*   **Plataforma:** Exclusivo para PC (Windows).
+*   **Evolución Constante:** Actualizaciones frecuentes con mejoras de QoL (Calidad de Vida) y contenido exclusivo.
+
+---
+
+## 🔗 Conéctate con Nosotros
+
+| Canal | Descripción | Enlace |
+| :--- | :--- | :--- |
+| 🌍 **Web Oficial** | Portal principal, noticias y descargas | [**Visitar Sitio**](https://leilos.qzz.io/) |
+| 💬 **Discord** | Comunidad, soporte en vivo y eventos | [**Unirse al Servidor**](https://discord.gg/rNtPqQyBwg) |
+| 💻 **GitHub** | Código fuente y contribuciones | [**Ver Repositorio**](https://github.com/LeilosFN) |
+
+---
+
+## ⚡ Potenciado por Trae AI
+
+<p align="center">
+  <i>El desarrollo de Leilos ha sido impulsado por la tecnología de <b>Trae</b>.</i>
+</p>
+
+Este proyecto demuestra lo que es posible cuando la creatividad humana se une a la inteligencia artificial avanzada. Gracias a **[Trae IDE](https://trae.ai)**, hemos logrado:
+
+*   ✨ **Código más limpio y eficiente.**
+*   🐛 **Detección y corrección de errores al instante.**
+*   🚀 **Un ciclo de desarrollo acelerado para traerte novedades más rápido.**
+
+> **Trae** no es solo un editor, es nuestro copiloto inteligente que entiende el código, el contexto y nuestras necesidades.
+>
+> *Construyendo el futuro del gaming, línea por línea, con Trae.*
