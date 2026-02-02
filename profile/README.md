@@ -15,10 +15,10 @@
 
 ## � ¿Por qué elegir Leilos?
 
-### � Rendimiento de Élite
+### � Rendimiento Mejor
 *   **Infraestructura Local:** Servidores alojados físicamente en **Madrid, España** 🇪🇸.
 *   **Latencia Mínima:** Ping promedio **<50ms** garantizado en territorio europeo.
-*   **Estabilidad Total:** Servicio activo **24/7** con mantenimiento profesional.
+*   **Estabilidad Total:** Servicio activo **24/7** con mantenimiento.
 
 ### �️ Seguridad Garantizada
 *   **Entorno Seguro:** Proyecto 100% libre de virus y software malicioso.
